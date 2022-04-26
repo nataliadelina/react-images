@@ -1,24 +1,25 @@
 {
   "files": {
-    "main.css": "./static/css/main.9264e665.css",
-    "main.js": "./static/js/main.c37f1930.js",
+    "main.css": "./static/css/main.e6329eec.css",
+    "main.js": "./static/js/main.80328953.js",
     "static/js/787.d1d4a2c2.chunk.js": "./static/js/787.d1d4a2c2.chunk.js",
     "static/media/3d-butterfly.PNG": "./static/media/3d-butterfly.9974eec90f41e6dde61b.PNG",
     "static/media/ebook-collection.PNG": "./static/media/ebook-collection.226d396a6379eb8bc0c1.PNG",
     "static/media/planets.PNG": "./static/media/planets.d17509a64c9cf826e1e9.PNG",
     "static/media/tea.PNG": "./static/media/tea.b30457516234a10440a7.PNG",
     "static/media/shalls.PNG": "./static/media/shalls.2e386f2ddb4614a887c2.PNG",
+    "static/media/work-3d_butterfly.png": "./static/media/work-3d_butterfly.0ccb5296313b216f5060.png",
     "static/media/roses.PNG": "./static/media/roses.c82c05006a489c8c2e3f.PNG",
     "static/media/img-photo.png": "./static/media/img-photo.960d7432a6b4c0591327.png",
     "static/media/img-design.png": "./static/media/img-design.63046d449336c48edbe1.png",
     "static/media/img-code.png": "./static/media/img-code.97360176717d45841ead.png",
     "index.html": "./index.html",
-    "main.9264e665.css.map": "./static/css/main.9264e665.css.map",
-    "main.c37f1930.js.map": "./static/js/main.c37f1930.js.map",
+    "main.e6329eec.css.map": "./static/css/main.e6329eec.css.map",
+    "main.80328953.js.map": "./static/js/main.80328953.js.map",
     "787.d1d4a2c2.chunk.js.map": "./static/js/787.d1d4a2c2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9264e665.css",
-    "static/js/main.c37f1930.js"
+    "static/css/main.e6329eec.css",
+    "static/js/main.80328953.js"
   ]
 }
