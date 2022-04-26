@@ -65,3 +65,12 @@
     background-size: cover;
     transition: all .5s ease-in-out;
 }
+
+.project-img-fit {
+    object-fit: contain;
+}
+
+.project-img-fit .img-fit {
+    width: 100%;
+    height: auto;
+}
