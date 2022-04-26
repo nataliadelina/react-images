@@ -1,9 +1,11 @@
 import React from 'react'
+import HeroImg from '../components/HeroImg'
 
 export default function Home() {
     return (
         <div id='home'>
-            work
+            <h2>hello, hero</h2>
+            <HeroImg />
         </div>
     )
 }
